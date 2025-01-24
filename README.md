@@ -1,4 +1,6 @@
-# vanilla-JS
+# Odin weather App
+
+Weather app for the JS course in The Odin Project.
 
 Template to vanilla JS projects, used among the JS course in The Odin Project
 

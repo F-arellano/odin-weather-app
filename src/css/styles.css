@@ -1,3 +1,15 @@
 h1 {
     color: blue;
 }
+
+table, th, td {
+    border: 1px solid;
+  }
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    width: 200px;
+}
